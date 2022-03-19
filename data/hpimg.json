@@ -1,0 +1,28 @@
+{
+  "images_array": [
+    {
+      "path": "assets/hpimg/hp1.png",
+      "description": "you can discover your local offers"
+    },
+    {
+      "path": "assets/hpimg/hp2.png",
+      "description": "you can discover your local offers"
+    },
+    {
+      "path": "assets/hpimg/hp3.webp",
+      "description": "you can discover your local offers"
+    },
+    {
+      "path": "assets/hpimg/hp4.webp",
+      "description": "you can discover your local offers"
+    },
+    {
+      "path": "assets/hpimg/hp6.webp",
+      "description": "you can discover your local offers"
+    },
+    {
+      "path": "assets/hpimg/hp7.webp",
+      "description": "you can discover your local offers"
+    }
+  ]
+}
