@@ -23,6 +23,10 @@
     {
       "path": "/assets/welcome/hp7.png",
       "description": "you can discover your local offers"
+    },
+    {
+      "path": "/assets/welcome/hp9.png",
+      "description": "you can discover your local offers"
     }
   ]
 }
