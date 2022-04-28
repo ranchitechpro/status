@@ -1,4 +1,5 @@
 {
+	"Maintenance" : "0",
 	"Version": "1.1",
 	"MessageMj" : "There is a critical update available. Your app will not function without this update.",
 	"MessageMi" : "New features are available for better user experience."
