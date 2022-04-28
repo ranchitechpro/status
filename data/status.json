@@ -1,5 +1,7 @@
 {
 	"Maintenance" : "1",
+	"MaintenanceHdr" : "Maintenance is in progress.",
+	"MaintenanceMsg" : "Sorry for inconvenience .System is under maintenance, please come back after some time.",
 	"Version": "1.1",
 	"MessageMj" : "There is a critical update available. Your app will not function without this update.",
 	"MessageMi" : "New features are available for better user experience."
