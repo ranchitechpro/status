@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "GROCERY",
+    "sCategory": [
+      { "sid": 101, "sname": "GROCERY" },
+      { "sid": 102, "sname": "FRUIT" },
+      { "sid": 103, "sname": "BAKERY" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "FASHION",
+    "sCategory": [
+      { "sid": 201, "sname": "FAMILY" },
+      { "sid": 202, "sname": "OCASSION" },
+      { "sid": 203, "sname": "FASHION" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "SERVICE",
+    "sCategory": [
+      { "sid": 201, "sname": "SERVICE1" },
+      { "sid": 202, "sname": "SERVICE2" },
+      { "sid": 203, "sname": "SERVICE2" }
+    ]
+  }
+]
