@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "GROCERY",
+      "subCategory": [
+        { "id": 101, "name": "GROCERY" },
+        { "id": 102, "name": "FRUIT" },
+        { "id": 103, "name": "BAKERY" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FASHION",
+      "subCategory": [
+        { "id": 201, "name": "FAMILY" },
+        { "id": 202, "name": "OCASSION" },
+        { "id": 203, "name": "FASHION" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "THINGS_TO_DO",
+      "subCategory": [
+        { "id": 301, "name": "OUTDOOR" },
+        { "id": 302, "name": "PARTY" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SERVICES",
+      "subCategory": [
+        { "id": 401, "name": "AUTOSERVICE" },
+        { "id": 402, "name": "REPAIR" },
+        { "id": 403, "name": "DINING" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "RESTURANTS",
+      "subCategory": [
+        { "id": 501, "name": "CATERING" },
+        { "id": 502, "name": "BAR" }
+      ]
+    }
+  ]
+}
