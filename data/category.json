@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": ,
+      "id": 1,
       "name": "GROCERY",
       "subCategory": [
         { "id": 101, "name": "GROCERY" },
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": ,
       "name": "THINGS_TO_DO",
       "subCategory": [
         { "id": 301, "name": "OUTDOOR" },
