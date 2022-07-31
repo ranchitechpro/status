@@ -2,45 +2,45 @@
   "data": [
     {
       "id": 1,
-      "name": "GROCERY",
+      "name": "किराना",
       "subCategory": [
-        { "id": 101, "name": "GROCERY" },
-        { "id": 102, "name": "FRUIT" },
-        { "id": 103, "name": "BAKERY" }
+        { "id": 101, "name": "किराना" },
+        { "id": 102, "name": "फल" },
+        { "id": 103, "name": "बेकरी" }
       ]
     },
     {
       "id": 2,
-      "name": "FASHION",
+      "name": "फैशन",
       "subCategory": [
-        { "id": 201, "name": "FAMILY" },
-        { "id": 202, "name": "OCASSION" },
-        { "id": 203, "name": "FASHION" }
+        { "id": 201, "name": "पारिवारिक" },
+        { "id": 202, "name": "विशेष अवसर" },
+        { "id": 203, "name": "बच्चों का फैशन" }
       ]
     },
     {
       "id": 3,
-      "name": "THINGS_TO_DO",
+      "name": "अवकाश कार्य",
       "subCategory": [
-        { "id": 301, "name": "OUTDOOR" },
-        { "id": 302, "name": "PARTY" }
+        { "id": 301, "name": "बहिरंग क्रिया - कलाप" },
+        { "id": 302, "name": "समारोह" }
       ]
     },
     {
       "id": 4,
-      "name": "SERVICES",
+      "name": "सेवाएं",
       "subCategory": [
-        { "id": 401, "name": "AUTOSERVICE" },
-        { "id": 402, "name": "REPAIR" },
-        { "id": 403, "name": "DINING" }
+        { "id": 401, "name": "ऑटो सर्विस" },
+        { "id": 402, "name": "मरम्मत" },
+        { "id": 403, "name": "भोजन" }
       ]
     },
     {
       "id": 5,
-      "name": "RESTURANTS",
+      "name": "रेस्टोरेंट",
       "subCategory": [
-        { "id": 501, "name": "CATERING" },
-        { "id": 502, "name": "BAR" }
+        { "id": 501, "name": "खानपान सेवा" },
+        { "id": 502, "name": "रेस्टोरेंट और बार" }
       ]
     }
   ]

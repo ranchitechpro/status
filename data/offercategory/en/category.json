@@ -2,45 +2,45 @@
   "data": [
     {
       "id": 1,
-      "name": "GROCERY",
+      "name": "Grocery",
       "subCategory": [
-        { "id": 101, "name": "GROCERY" },
-        { "id": 102, "name": "FRUIT" },
-        { "id": 103, "name": "BAKERY" }
+        { "id": 101, "name": "Grocery" },
+        { "id": 102, "name": "Fruit" },
+        { "id": 103, "name": "Bakery" }
       ]
     },
     {
       "id": 2,
-      "name": "FASHION",
+      "name": "Fashion",
       "subCategory": [
-        { "id": 201, "name": "FAMILY" },
-        { "id": 202, "name": "OCASSION" },
-        { "id": 203, "name": "FASHION" }
+        { "id": 201, "name": "Family" },
+        { "id": 202, "name": "Occasion" },
+        { "id": 203, "name": "Kids fashion" }
       ]
     },
     {
       "id": 3,
-      "name": "THINGS_TO_DO",
+      "name": "Things to do",
       "subCategory": [
-        { "id": 301, "name": "OUTDOOR" },
-        { "id": 302, "name": "PARTY" }
+        { "id": 301, "name": "Outdoor activity" },
+        { "id": 302, "name": "Party" }
       ]
     },
     {
       "id": 4,
-      "name": "SERVICES",
+      "name": "Services",
       "subCategory": [
-        { "id": 401, "name": "AUTOSERVICE" },
-        { "id": 402, "name": "REPAIR" },
-        { "id": 403, "name": "DINING" }
+        { "id": 401, "name": "Auto service" },
+        { "id": 402, "name": "Repair" },
+        { "id": 403, "name": "Dining" }
       ]
     },
     {
       "id": 5,
-      "name": "RESTURANTS",
+      "name": "Resturants",
       "subCategory": [
-        { "id": 501, "name": "CATERING" },
-        { "id": 502, "name": "BAR" }
+        { "id": 501, "name": "Catering service" },
+        { "id": 502, "name": "Resturant and bar" }
       ]
     }
   ]
